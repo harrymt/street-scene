@@ -8,7 +8,7 @@ import com.jogamp.opengl.GL2;		// Advanced OpenGL properties
 import framework.interfaces.*;
 import framework.utility.Camera;
 /**
- * Default setup for Scene. You should subclass {@code Scene} and add your functionality.
+ * Default setup for G53GRA Coursework. You should subclass {@code Scene} and add your functionality.
  * Override {@link #initialise()} to add {@link DisplayableObject}s to your {@code Scene}. Running your subclass
  * will setup and draw objects based on your {@link #initialise()} function.
  * <p>

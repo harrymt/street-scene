@@ -1,6 +1,6 @@
 package code;
 
-import framework.engine.*;
+import framework.engine.*;		// import framework classes
 import code.objects.arch.Arch;
 import code.objects.house.House;
 import code.objects.rat.Rat;

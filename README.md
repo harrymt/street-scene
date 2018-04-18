@@ -8,7 +8,7 @@ lighting up the darkness. The camera takes you around the street showing off the
 ## Technologies
 
 - [Processing Java](https://processing.org/reference/libraries/) Library
-
+- [OpenGL](https://www.opengl.org/)
 
 ### Development
 
